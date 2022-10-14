@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script is uncomments the Japanese locale and regenerates locales.
+# This script uncomments the Japanese locale and regenerates all locales.
 
 sudo steamos-readonly disable
 sudo pacman-key --init
